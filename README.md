@@ -21,6 +21,7 @@
 
 ## 動作環境・インストール方法
 本作は **Meta Quest (2 / Pro / 3)** のスタンドアローン動作専用アプリ（`.apk`）です。
+なお、実機での動作確認は 3,3sでのみ行いました。
 
 1. 本リポジトリの [Releases](../../releases) ページ、または[公式Webサイト](https://yuga-soy.github.io/AquaRiser-VR/)から最新の `AquaRiser_v1.0.apk` をダウンロードしてください。
 2. [SideQuest](https://sidequestvr.com/) や Meta Quest Developer Hub 等を使用して、Meta Quest端末へAPKファイルをインストール（サイドロード）してください。
