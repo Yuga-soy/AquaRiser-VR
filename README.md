@@ -27,12 +27,12 @@
 2. [SideQuest](https://sidequestvr.com/) や Meta Quest Developer Hub 等を使用して、Meta Quest端末へAPKファイルをインストール（サイドロード）してください。
 3. Quest内の「提供元不明のアプリ」からゲームを起動できます。
 
-## 🛠️ 開発環境 / 使用技術
+## 開発環境 / 使用技術
 * Unity 2022.3.62f1 / XR Interaction Toolkit
 * Photon Unity Networking 2 (PUN 2)
 * Firebase Realtime Database
 
-## 👥 クレジット
+## クレジット
 * **Developer:** しょうゆづけ 
 * **Character:** ユニティちゃん (Unity-chan) - © Unity Technologies Japan/UCL
 * **Assets:**
