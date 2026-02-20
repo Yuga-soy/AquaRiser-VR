@@ -39,6 +39,3 @@
   * 海面: Simple Water Shader URP
   * 砂浜: Yughues Free Sand Materials
   * ロープ挙動: OptimizedRopesAndCables (Created by Ali10555)
-
----
-*Developed as a university project, 2025-2026.*
